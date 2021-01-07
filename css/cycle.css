@@ -1,0 +1,77 @@
+.features .span6 {
+ margin-bottom: 40px; }
+ .features .span6 > p, .features .span6 > h3 {
+   margin-left: 98px; }
+ .features .span6 p {
+   padding-right: 30px; }
+ .features .span6 i {
+   float: left;
+   height: 64px;
+   width: 80px;
+   margin: 0;
+   background: url('') no-repeat;
+  }
+  
+.features2 {
+
+}
+.hero-unit .splash {
+	height: 350px;
+}
+.features2 h1 {
+    font-weight: bold;
+}
+  
+.features2 .left p {
+	text-align: right;
+	margin-right: 10px;
+}
+.features2 .left h3 {
+text-align: right;
+	margin-right: 10px;
+}
+
+.features2 .right p {
+	margin-left: 10px;
+}
+.features2 .right h3 {
+	margin-left: 10px;
+}
+     
+.teaser {
+	height: 240px;
+	position: relative;
+}
+
+.teaser div {
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+}
+
+.teaser div:hover {
+	overflow: hidden;
+	position: relative;
+}
+
+.carousel p {
+	font-size: 14px;
+}
+
+.carousel h4 {
+	font-size: 17px;
+	line-height: 26px;
+
+}
+
+section {
+	padding-top: 60px;
+}
+
+
+.features2 .row {
+	padding-bottom:30px;
+}
+.features2 img {
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+}
